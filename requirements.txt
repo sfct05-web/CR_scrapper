@@ -1,0 +1,5 @@
+pandas
+numpy
+beautifulsoup4
+lxml
+playwright
